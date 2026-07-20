@@ -6,8 +6,6 @@ Atuo como Agile Master na Leroy Merlin Brasil (via ART IT Intelligent Technology
 
 Tenho mais de 15 anos de trajetória em tecnologia, passando por suporte técnico N2/N3, coordenação de infraestrutura e consultoria de sistemas (Protheus/ADVPL), antes de migrar para a liderança ágil. Atualmente também me aprofundo por conta própria em **Python, Django e Pandas**, com interesse em atuar futuramente como Analista de Dados.
 
-         
-
 📫 Me encontre no [![LinkedIn](https://shields.io)](https://br.linkedin.com/in/soumarcel/en?trk=profile-badge)
 
 ---
@@ -32,9 +30,10 @@ Tenho mais de 15 anos de trajetória em tecnologia, passando por suporte técnic
 
 ### 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouMarcel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouMarcel&theme=tokyonight&layout=compact&langs_count=8)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SouMarcel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouMarcel&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" height="180" />
+</p>
 
 ---
 
