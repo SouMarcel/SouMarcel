@@ -6,7 +6,14 @@ Atuo como Agile Master na Leroy Merlin Brasil (via ART IT Intelligent Technology
 
 Tenho mais de 15 anos de trajetória em tecnologia, passando por suporte técnico N2/N3, coordenação de infraestrutura e consultoria de sistemas (Protheus/ADVPL), antes de migrar para a liderança ágil. Atualmente também me aprofundo por conta própria em **Python, Django e Pandas**, com interesse em atuar futuramente como Analista de Dados.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="soumarcel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/soumarcel/en?trk=profile-badge">Marcel Andrade</a></div>
+<!-- Script necessário para renderizar o badge (coloque uma única vez no arquivo) -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<!-- O seu código do badge -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="soumarcel" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/soumarcel/en?trk=profile-badge">Marcel Andrade</a>
+</div>
+
               
 
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/soumarcel/)
